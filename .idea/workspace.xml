@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hw/hw2/hw2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw/hw2/hw2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="Fill in 50% of hw2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652979954439</updated>
       <workItem from="1652979955877" duration="21826000" />
+      <workItem from="1653500102546" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="Complete hw1">
       <created>1652980066290</created>
@@ -111,9 +110,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete hw1" />
