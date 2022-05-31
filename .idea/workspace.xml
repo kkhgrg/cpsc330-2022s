@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="Fill in 50% of hw2" />
+    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="hw3 &amp; hw4 done">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Rebasing_at_5_21_2022_7_41_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Rebasing_at_5_21_2022_7_41_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_20_2022_8_17_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_20_2022_8_17_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/2019W2/midterm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exams/2019W2/midterm.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +67,8 @@
       <updated>1652979954439</updated>
       <workItem from="1652979955877" duration="21826000" />
       <workItem from="1653500102546" duration="464000" />
+      <workItem from="1653585079892" duration="347000" />
+      <workItem from="1653767239605" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="Complete hw1">
       <created>1652980066290</created>
@@ -82,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653108112018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw3 complete">
+      <created>1653585119940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653585119940</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hw3 &amp; hw4 done">
+      <created>1653767279686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653767279686</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +138,8 @@
     <MESSAGE value="Complete hw1" />
     <MESSAGE value="Enlarge fonts in the graphs" />
     <MESSAGE value="Fill in 50% of hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fill in 50% of hw2" />
+    <MESSAGE value="hw3 complete" />
+    <MESSAGE value="hw3 &amp; hw4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw3 &amp; hw4 done" />
   </component>
 </project>
