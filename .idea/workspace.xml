@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="hw3 &amp; hw4 done">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Rebasing_at_5_21_2022_7_41_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Rebasing_at_5_21_2022_7_41_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_20_2022_8_17_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_20_2022_8_17_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="up to 16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/2019W2/midterm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exams/2019W2/midterm.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw/hw8/hw8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw/hw8/hw8.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -69,6 +73,8 @@
       <workItem from="1653500102546" duration="464000" />
       <workItem from="1653585079892" duration="347000" />
       <workItem from="1653767239605" duration="654000" />
+      <workItem from="1655188501305" duration="1253000" />
+      <workItem from="1655274485187" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="Complete hw1">
       <created>1652980066290</created>
@@ -105,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653767279686</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="up to 16">
+      <created>1655189392636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655189392636</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +153,7 @@
     <MESSAGE value="Fill in 50% of hw2" />
     <MESSAGE value="hw3 complete" />
     <MESSAGE value="hw3 &amp; hw4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3 &amp; hw4 done" />
+    <MESSAGE value="up to 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="up to 16" />
   </component>
 </project>
