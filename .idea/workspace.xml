@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="up to 16">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw/hw8/hw8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw/hw8/hw8.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b83e53c1-14dd-4e17-a9d4-8d935b1edcd9" name="Changes" comment="up to 16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +72,7 @@
       <workItem from="1653767239605" duration="654000" />
       <workItem from="1655188501305" duration="1253000" />
       <workItem from="1655274485187" duration="204000" />
+      <workItem from="1655692176501" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="Complete hw1">
       <created>1652980066290</created>
